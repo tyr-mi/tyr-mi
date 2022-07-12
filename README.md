@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tyr-mi
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning cryptography and netweok security
+- 🌱 I’m currently learning cryptography and network security
 - 📫 How to reach me -> TelegramAccount: @StrangerFromMoon
 
 <!---
